@@ -24,10 +24,19 @@ Acknowledgments: We would like to express our gratitude to the open-source commu
 
 Explore Forolly Food and experience a modern and efficient solution. We appreciate your interest and involvement in making this project a success!
 
-# SCREENSHOT
+# SCREENSHOT For Customer side
 
 ![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/f7928492-c8f7-4627-a600-1c6bd8754ddc)
 
 ![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/fc23cca2-15f3-485c-82c5-55e830de11e6)
 
 ![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/0c33ba23-d210-416f-9948-f1dd62f1fbd0)
+
+
+# SCREENSHOT For Admin side
+
+![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/2d233e99-9a53-431a-821f-afa66e0dcb9d)
+
+![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/863ca498-7714-420a-a1c0-f8b82835a2ea)
+
+![image](https://github.com/Sunasarahusenahmad/forolly-food/assets/103268918/2e693d91-1d97-4bd2-90c8-6bb042668ea5)
